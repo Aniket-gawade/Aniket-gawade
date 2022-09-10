@@ -1,6 +1,14 @@
-## Here are some of my statistics 🚀
+I am an aspiring engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, object-oriented programming, and machine learning.
+
+My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am able to jump across verticals to deliver high-performing solutions.
+
+In my undergraduate studies, I’ve taken on various leadership roles, including various team projects, Organized hackathons, events and conducted workshops reaching over 300+ students. 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## Here are some of my statistics 🚀
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniket-gawade&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aniket-gawade&theme=github_dark)
 
