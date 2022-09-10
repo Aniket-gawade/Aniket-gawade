@@ -9,7 +9,7 @@
 
 <!--![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=github_dark&layout=compact)-->
 
-[![Aniket-gawade's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aniket-gawade&theme=react-dark)](Aniket-gawade)
+[![Aniket-gawade's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aniket-gawade&theme=react-dark)](README.md)
 
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
