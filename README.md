@@ -23,4 +23,4 @@ In my undergraduate studies, I’ve taken on various leadership roles, including
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aniket-gawade)
-<h5 align="center">Made With ❤️ by Me </h5>
+<h5 align="center">Made With ❤️ by Aniket Gawade </h5>
